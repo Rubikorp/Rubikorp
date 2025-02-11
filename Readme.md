@@ -37,6 +37,8 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+</a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/40413/images/3181359/pasted-from-clipboard.png" alt="react native" width="102,4" height="40"/> 
 </a> 
 </p>
 
